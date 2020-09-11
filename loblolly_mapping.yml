@@ -1,0 +1,28 @@
+name: loblolly
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ca-certificates=2020.6.20=hecda079_0
+  - certifi=2020.6.20=py38h32f6830_0
+  - intel-openmp=2020.1=216
+  - libblas=3.8.0=16_mkl
+  - libcblas=3.8.0=16_mkl
+  - liblapack=3.8.0=16_mkl
+  - mkl=2020.1=216
+  - numpy=1.19.1=py38h72c728b_0
+  - openssl=1.1.1g=he774522_1
+  - pandas=1.1.2=py38h7ae7562_0
+  - pip=20.2.3=py_0
+  - python=3.8.5=h60c2a47_7_cpython
+  - python-dateutil=2.8.1=py_0
+  - python_abi=3.8=1_cp38
+  - pytz=2020.1=pyh9f0ad1d_0
+  - setuptools=49.6.0=py38h32f6830_0
+  - six=1.15.0=pyh9f0ad1d_0
+  - sqlite=3.33.0=he774522_0
+  - vc=14.1=h869be7e_1
+  - vs2015_runtime=14.16.27012=h30e32a0_2
+  - wheel=0.35.1=pyh9f0ad1d_0
+  - wincertstore=0.2=py38_1003
+prefix: C:\Anaconda3\envs\loblolly
